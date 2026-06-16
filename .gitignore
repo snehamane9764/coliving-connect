@@ -1,0 +1,21 @@
+# Dependencies and builds
+node_modules/
+dist/
+.vite/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+
+# Local configuration
+.env
+*.local
+
+# Editors and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Test output
+coverage/
+*.tsbuildinfo
